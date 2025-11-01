@@ -9,7 +9,9 @@
 
 **التحكم في محرك خطوي (Stepper Motor) باستخدام ESP32**
 
-[🔗 Live Demo](https://wokwi.com/projects/446461241693771777) | ![Project Demo](Demo.gif)
+[🔗 Live Demo](https://wokwi.com/projects/446461241693771777) 
+
+![Project Demo](Demo.gif)
 
 </div>
 
