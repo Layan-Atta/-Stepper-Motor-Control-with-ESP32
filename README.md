@@ -11,9 +11,9 @@
 
 [🔗 Live Demo](https://wokwi.com/projects/446461241693771777) 
 
+
 ![Project Demo](Demo.gif)
 
-</div>
 
 ---
 
