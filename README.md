@@ -1,25 +1,26 @@
-# 🔄 Stepper Motor Control with ESP32
 <div align="center">
+
+# 🔄 Stepper Motor Control with ESP32
   
 ![Stepper Motor](https://img.shields.io/badge/Motor-Stepper%2028BYJ--48-blue)
 ![Microcontroller](https://img.shields.io/badge/MCU-ESP32-green)
 ![Platform](https://img.shields.io/badge/Platform-Wokwi-orange)
 ![Status](https://img.shields.io/badge/Status-Completed-success)
 
-</div>
 
 
 **التحكم في محرك خطوي (Stepper Motor) باستخدام ESP32**
-
-<div dir="rtl" align="right">
   
 [🔗 Live Demo](https://wokwi.com/projects/446461241693771777) 
 
 
 ![Project Demo](Demo.gif)
 
+</div>
 
 ---
+<div dir="rtl" align="right">
+
 
 ## 📖 نظرة عامة
 
