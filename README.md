@@ -1,9 +1,11 @@
 # 🔄 Stepper Motor Control with ESP32
 <div align="center">
+  
 ![Stepper Motor](https://img.shields.io/badge/Motor-Stepper%2028BYJ--48-blue)
 ![Microcontroller](https://img.shields.io/badge/MCU-ESP32-green)
 ![Platform](https://img.shields.io/badge/Platform-Wokwi-orange)
 ![Status](https://img.shields.io/badge/Status-Completed-success)
+
 </div>
 
 
