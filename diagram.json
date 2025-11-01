@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "author": "Your Name",
+  "editor": "wokwi",
+  "parts": [
+    { "type": "board-esp32-devkit-c-v4", "id": "esp", "top": 0, "left": 0, "attrs": {} },
+    {
+      "type": "wokwi-stepper-motor",
+      "id": "stepper1",
+      "top": -82.79,
+      "left": -172.37,
+      "attrs": { "size": "17" }
+    }
+  ],
+  "connections": [
+    [ "esp:TX", "$serialMonitor:RX", "", [] ],
+    [ "esp:RX", "$serialMonitor:TX", "", [] ],
+    [ "stepper1:B-", "esp:17", "magenta", [ "v134.4", "h191.99", "v-105.6" ] ],
+    [ "stepper1:A+", "esp:19", "blue", [ "v153.6", "h230.4", "v-144" ] ],
+    [ "stepper1:A-", "esp:5", "gold", [ "v163.2", "h249.6", "v-144" ] ],
+    [ "esp:18", "stepper1:B+", "cyan", [ "h52.84", "v163.2", "h-240" ] ]
+  ],
+  "dependencies": {}
+}
