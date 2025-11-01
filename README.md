@@ -9,7 +9,7 @@
 
 **التحكم في محرك خطوي (Stepper Motor) باستخدام ESP32**
 
-[🔗 Live Demo](https://wokwi.com/projects/446461241693771777) | [📹 Video Demo](#demo)
+[🔗 Live Demo](https://wokwi.com/projects/446461241693771777) | ![Project Demo](Demo.gif)
 
 </div>
 
@@ -66,14 +66,11 @@ GPIO 19    →  IN1
 GPIO 18    →  IN2
 GPIO 5     →  IN3
 GPIO 17    →  IN4
-GND        →  GND
-VIN (5V)   →  VCC
 ```
 
 ### مخطط بصري:
-![Circuit Diagram](circuit_diagram.png)
+![Circuit Diagram](c.jpg)
 
-> **ملاحظة:** تأكد من توصيل الأرضي (GND) المشترك بين ESP32 والمحرك!
 
 ---
 
@@ -189,7 +186,7 @@ long steps = (long)degrees * stepsPerRevolution / 360;
 ## 🎬 Demo
 
 ### فيديو توضيحي:
-![Demo GIF](demo.gif)
+![Demo GIF](Demo.gif)
 
 ### Serial Monitor Output:
 ```
@@ -326,7 +323,7 @@ Layan Atta
 
 ## 🙏 شكر وتقدير
 
-- **Smart Methods Training Program** -  لتوجيه وإشراف المهندسة وفاء المدهون
+- **Smart Methods Training Program** - للمهندسة وفاء المدهون على التوجية والإشراف
 - **Wokwi Platform** - لتوفير بيئة محاكاة ممتازة
 - **Espressif Systems** - لتطوير ESP32
 - **Arduino Community** - للدعم والمكتبات
